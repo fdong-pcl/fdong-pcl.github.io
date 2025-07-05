@@ -25,7 +25,7 @@ author:
   avatar           : "fd.png"
   name             : "fan dong"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "always learning, always growing."
   location         : "ShenZhen, China"
   employer         : "University of Arizona"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=IPclhQgAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
