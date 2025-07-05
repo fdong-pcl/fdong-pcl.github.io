@@ -14,7 +14,7 @@ redirect_from:
 
 ## About Me
 
-Dr. Dong's research is at the intersection of **Artificial Intelligence (AI)** and **Health Informatics**, with a strong focus on leveraging advanced computational techniques to address pressing health-related challenges.. He earned his **Ph.D.** from the **University of Arizona** in 2021. Currently, he serves as a **Research Assistant at Peng Cheng Laboratory**. Prior to this role, Dr. Dong contributed to the FDA's National Center for Toxicological Research (NCTR), first as an Oak Ridge Institute for Science and Education (ORISE) fellow, and later as an FDA employee.
+Dr. Dong's research is at the intersection of **Artificial Intelligence (AI)** and **Health Informatics**, with a strong focus on leveraging advanced computational techniques to address pressing health-related challenges. He earned his **Ph.D.** from the **University of Arizona** in 2021. Currently, he serves as a **Research Assistant at Peng Cheng Laboratory**. Prior to this role, Dr. Dong contributed to the FDA's National Center for Toxicological Research (NCTR), first as an Oak Ridge Institute for Science and Education (ORISE) fellow, and later as an FDA employee.
 
 ---
 
