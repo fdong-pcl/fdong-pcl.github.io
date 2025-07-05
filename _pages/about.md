@@ -21,8 +21,10 @@ Dr. Fan Dong is a distinguished researcher with expertise in Management and Info
 ## Education
 
 * **Ph.D. in Management Information Systems (Minor in Statistics)**
+
     Eller College of Management, University of Arizona (2021)
 * **M.S. in Computer Science**
+
     Georgia State University (2015)
 
 ---
